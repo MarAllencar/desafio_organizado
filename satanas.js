@@ -29,4 +29,6 @@ private void btnEspaço_Click(object sender, EventArgs e)
 /*1.	Organize o c�digo acima segundo o que foi explicado nas aulas de t�cnicas de programa��o afim de garantir legibilidade e
  sustentabilidade do c�digo.
 
-2.	Desenhe uma classe que implemente o c�digo acima como um m�todo. */
+2.	Desenhe uma classe que implemente o c�digo acima como um m�todo. 
+
+- alguns codigos foram alterados, devido a pouca verificação*/
