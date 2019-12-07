@@ -5,7 +5,7 @@ Nome: Mariane Alves de Alencar */
 
 
 
-private void btnEspaço_Click(object sender, EventArgs)
+private void btnEspaço_Click(object sender, EventArgs e)
 {
     double nb1;    /*banana = nb1*/ 
     double nb2;     /* choppe = nb2*/
